@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @mrEkso
-- 👀 I’m interested in coding, sport and self-development
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me: @mr_ekso (telegram)
+Backend Engineer with 3+ years of experience in designing and scaling distributed systems (100K+ DAU, 10M+ monthly requests). Skilled in backend architecture, PostgreSQL optimization, microservices, and CI/CD automation. Built SaaS platforms from scratch, delivering 30–50% performance improvements and ensuring 99.9% uptime. Experienced in mentoring teammates, driving cross-functional delivery, and contributing to fast-growing engineering teams. Open to opportunities in high-impact global environments.
