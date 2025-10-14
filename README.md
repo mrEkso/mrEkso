@@ -1,5 +1,5 @@
 # Davyd Okaianchenko
-
+> **Precision · Clarity · Scalability**  
 **Building scalable, reliable, and maintainable systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davyd%20Okaianchenko-blue?logo=linkedin)](https://www.linkedin.com/in/davyd-okaianchenko)
