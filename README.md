@@ -1,9 +1,5 @@
 # Davyd Okaianchenko
 
-### ⚡ Philosophy
-> **Precision · Clarity · Scalability**  
-> Great systems are not accidental — they’re engineered.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davyd%20Okaianchenko-blue?logo=linkedin)](https://www.linkedin.com/in/davyd-okaianchenko)
 [![Email](https://img.shields.io/badge/Email-davyd.okaianchenko%40gmail.com-red?logo=gmail)](mailto:davyd.okaianchenko@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mrEkso-black?logo=github)](https://github.com/mrEkso)
@@ -128,3 +124,10 @@ Focus: **code clarity, architecture, automation, reproducibility.**
 📧 **davyd.okaianchenko@gmail.com**  
 💼 [LinkedIn — Davyd Okaianchenko](https://www.linkedin.com/in/davyd-okaianchenko)  
 🧩 [GitHub — mrEkso](https://github.com/mrEkso)
+
+---
+
+
+### ⚡ Philosophy
+> **Precision · Clarity · Scalability**  
+> Great systems are not accidental — they’re engineered.
