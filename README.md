@@ -1,6 +1,6 @@
 # Davyd Okaianchenko
 
-### ⭐ Philosophy
+### ⚡ Philosophy
 > **Precision · Clarity · Scalability**  
 > Great systems are not accidental — they’re engineered.
 
