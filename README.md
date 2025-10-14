@@ -1,4 +1,6 @@
-# 👋 Hi, I'm **Davyd Okaianchenko**
+# Davyd Okaianchenko
+
+**Building scalable, reliable, and maintainable systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davyd%20Okaianchenko-blue?logo=linkedin)](https://www.linkedin.com/in/davyd-okaianchenko)
 [![Email](https://img.shields.io/badge/Email-davyd.okaianchenko%40gmail.com-red?logo=gmail)](mailto:davyd.okaianchenko@gmail.com)
