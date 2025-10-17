@@ -113,7 +113,7 @@ Top 3% · GPA 95/100 · Academic Merit Scholar
 
 ## 🧩 Highlight Project
 
-### [🧠 Language Expert Portfolio — Automated Java Solutions Backup](https://github.com/mrEkso/language-expert-portfolio)
+### [🧠 Language Expert Portfolio - Automated Java Solutions Backup](https://github.com/mrEkso/daily-coding-language-practice)
 A professional archive of verified Java solutions — automatically backed up, versioned, and documented with engineering precision.  
 Focus: **code clarity, architecture, automation, reproducibility.**
 
