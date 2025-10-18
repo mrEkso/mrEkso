@@ -11,6 +11,7 @@
 **Lead Backend Developer / Tech Lead** with **3+ years of experience** designing and scaling distributed systems  
 (100K+ DAU · 10M+ monthly requests · SLA 99.9%).  
 
+Proven experience as a **Tech Lead**, driving backend architecture, mentoring engineers, and ensuring consistent delivery at scale.  
 Focused on **high-performance backend architecture**, **data-driven systems**, and **automated infrastructure**.  
 Passionate about **clarity, reliability, and engineering discipline**.
 
@@ -33,6 +34,10 @@ Passionate about **clarity, reliability, and engineering discipline**.
 [![React](https://img.shields.io/badge/React-UI%20Architecture-61DAFB?logo=react)](https://react.dev)
 [![Vue.js](https://img.shields.io/badge/Vue.js-Frontend%20Components-4FC08D?logo=vue.js)](https://vuejs.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Design%20System-38B2AC?logo=tailwindcss)](https://tailwindcss.com)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-State%20Management-764ABC?logo=redux)](https://redux-toolkit.js.org)
+[![React Query](https://img.shields.io/badge/React%20Query-Server%20State%20Sync-FF4154?logo=reactquery)](https://tanstack.com/query/latest)
+[![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4?logo=axios)](https://axios-http.com)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animations-EF5B48?logo=framer)](https://www.framer.com/motion)
 
 ### 🧩 Databases & Storage
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced%20Indexing-4169E1?logo=postgresql)](https://www.postgresql.org)
