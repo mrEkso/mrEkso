@@ -87,13 +87,11 @@ Passionate about **clarity, reliability, and engineering discipline**.
 - Integrated **Prometheus + ELK** for full-stack observability.  
 - Mentored a 3-engineer team achieving **95% sprint delivery rate**.
 
-### 🔹 **Backend Engineer — MobiMill**
-> 2023 – 2024 | B2B Mobile Infrastructure
+### **Backend Developer** - Verschiedene IT-Projekte
+> Jan 2020 - May 2022
 
-- Optimized RESTful APIs for 2M+ monthly transactions.  
-- Refactored backend architecture → **50% faster response**, **25% higher retention**.  
-- Containerized services → uptime improved by 30%.  
-- Collaborated across product & mobile teams for faster release cycles.
+- Contributed to the development of complex backend services, REST APIs, and database architectures.
+- Built a strong foundation in high-performance backend engineering, totaling over **5 years of commercial experience**.
 
 ---
 
@@ -109,7 +107,7 @@ Top 3% · GPA 95/100 · Academic Merit Scholar
 
 | Language | Proficiency |
 |:--|:--|
-| 🇬🇧 English | Professional Working Proficiency |
+| 🇬🇧 English | Full Professional Proficiency (C1) |
 | 🇩🇪 German | Full Professional Proficiency (C1) |
 | 🇺🇦 Ukrainian | Native |
 | 🇷🇺 Russian | Native |
