@@ -138,7 +138,6 @@ Focus: **code clarity, architecture, automation, reproducibility.**
 ## 📫 Contact
 
 📧 **davyd.okaianchenko@gmail.com**  
-💼 [LinkedIn - Davyd Okaianchenko](https://www.linkedin.com/in/davyd-okaianchenko)  
 🧩 [GitHub - mrEkso](https://github.com/mrEkso)
 
 ---
