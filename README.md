@@ -107,8 +107,8 @@ Top 3% · GPA 95/100 · Academic Merit Scholar
 
 | Language | Proficiency |
 |:--|:--|
-| 🇬🇧 English | Full Professional Proficiency (C1) |
-| 🇩🇪 German | Full Professional Proficiency (C1) |
+| 🇬🇧 English | Full Professional Proficiency (C1 - DSH 2) |
+| 🇩🇪 German | Full Professional Proficiency (C1 - IELTS 7.0) |
 | 🇺🇦 Ukrainian | Native |
 | 🇷🇺 Russian | Native |
 
