@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-**Lead Backend Developer / Tech Lead** with **3+ years of experience** designing and scaling distributed systems  
+**Lead Backend Developer / Tech Lead** with **5+ years of experience** designing and scaling distributed systems  
 (100K+ DAU · 10M+ monthly requests · SLA 99.9%).  
 
 Proven experience as a **Tech Lead**, driving backend architecture, mentoring engineers, and ensuring consistent delivery at scale.  
